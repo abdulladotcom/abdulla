@@ -114,3 +114,7 @@ header nav#menu-area ul li ul.submenu-1 li:hover ul.submenu-2 {
   left: 180px;
   visibility: visible;
 }
+
+.headingStyle:hover {
+  text-decoration: none;
+}
